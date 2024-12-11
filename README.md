@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Abel! 👋
 
-<!--
-**asulamo24/asulamo24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a junior at the University of Minnesota majoring in IT Systems/DevOps. I'm passionate about cloud computing and aspire to become a Cloud Engineer. My experience includes designing/working with CI/CD pipelines, provisioning cloud resources, and working on network monitoring and security.
 
-Here are some ideas to get you started:
+## What I'm Interested In
+- 🌩️ **Cloud Engineering**: Building scalable, reliable cloud solutions.
+- ⚙️ **DevOps**: Automating workflows to streamline development and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- 📍 Private Cloud Server: I'm building a private cloud server to connect and manage data across my Mac, Windows PC, iPhone, and PlayStation, creating a unified cloud storage solution.
+
+## Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/abelsulamo)
+- 📫 Reach me at: asulamo24@gmail.com
