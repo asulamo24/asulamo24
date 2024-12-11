@@ -4,7 +4,7 @@ About Me
 I'm a junior at the University of Minnesota majoring in IT Systems/DevOps. I'm passionate about cloud computing and aspire to become a Cloud Engineer. My experience includes designing/working with CI/CD pipelines, provisioning cloud resources, and working on network monitoring and security.
 
 What I'm Interested In
-- 🌩️ Cloud Engineering**: Building scalable, reliable cloud solutions.
+- 🌩️ Cloud Engineering: Building scalable, reliable cloud solutions.
 - ⚙️ DevOps: Automating workflows to streamline development and operations.
 
 Current Projects
